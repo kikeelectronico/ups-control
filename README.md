@@ -1,2 +1,2 @@
 # ups-control
-This firmware is loaded on to a Ray ArduPLC NANO for controlling my UPS
+This firmware is loaded on a nano Rayardupplc to control my UPS
